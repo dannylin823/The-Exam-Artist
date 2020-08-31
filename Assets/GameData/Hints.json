@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "hints": "Check the wall to the right close to the first row",
+      "name": "RightWallHint1"
+    },
+    {
+      "id": 1,
+      "hints": "See the wall to the right close to the second row",
+      "name": "RightWallHint2"
+    },
+    {
+      "id": 2,
+      "hints": "I'm popping at door in the back",
+      "name": "RightWallHint3"
+    },
+    {
+      "id": 3,
+      "hints": "Raise your head",
+      "name": "CeilingHint"
+    },
+    {
+      "id": 4,
+      "hints": "Look at the lower right of the board",
+      "name": "BoardHint1"
+    },
+    {
+      "id": 5,
+      "hints": "There's something showing at the lower left of the board",
+      "name": "BoardHint2"
+    },
+    {
+      "id": 6,
+      "hints": "The back of the teacher has something",
+      "name": "TeacherHint"
+    },
+    {
+      "id": 7,
+      "hints": "Look in your desk drawer",
+      "name": "DrawerHint"
+    },
+    {
+      "id": 8,
+      "hints": "Someone's outside!",
+      "name": "ClipboardHint"
+    },
+    {
+      "id": 9,
+      "hints": "I'm on your bottle~",
+      "name": "BottleHint"
+    }
+  ]
+}
+				

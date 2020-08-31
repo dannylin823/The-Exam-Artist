@@ -1,0 +1,445 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question_txt": "Russia is the world's largest landmass. How many times would Isreal fit in?",
+            "options": [
+                {
+                    "option_txt": "731",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "769",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "772",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "798",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "question_txt": "Which country of the following has the biggest population?",
+            "options": [
+                {
+                    "option_txt": "Belarus",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Azerbaijan",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Norway",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Tajikistan",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_txt": "Which of the following statement is wrong",
+            "correct_ans": "C",
+			"options": [
+                {
+                    "option_txt": "Population: Demark > Finland",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Landmass: Lesotho > Eswatini",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "GDP 2019: Turkey < Saudi Arabia",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "None of the three",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_txt": "How many islands does Indonesia have?",
+			"options": [
+                {
+                    "option_txt": "17393",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "17508",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "17630",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "18124",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_txt": "What City was not once a capital of Roman Empire",
+			"options": [
+                {
+                    "option_txt": "Milan",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Turin",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Istanbul",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Ravenna",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_txt": "Colombo is the capital of",
+			"options": [
+                {
+                    "option_txt": "Oman",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Yemen",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Palestine",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Sri Lanka",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_txt": "Which modern country was not a part of French Indochina?",
+			"options": [
+                {
+                    "option_txt": "Thailand",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Laos",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Cambodia",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Vietnam",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_txt": "How many countries are there in Oceania",
+			"options": [
+                {
+                    "option_txt": "11",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "12",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "13",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "14",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_txt": "Which of the following number, in sq mi, is closest to the actual area of Caribbean sea",
+			"options": [
+                {
+                    "option_txt": "0.920 million",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "1.063 million",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "1.187 million",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "1.225 million",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_txt": "Which is the coldest city in China when winter comes?",
+			"options": [
+                {
+                    "option_txt": "Harbin",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Hegang",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Hulunbuir",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Mohe",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_txt": "Which of the following is not an island country",
+			"options": [
+                {
+                    "option_txt": "Bahrain",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Cuba",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Cyprus",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Malaysia",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_txt": "Which of the following countries has tropical rainforest climate?",
+			"options": [
+                {
+                    "option_txt": "Morocco",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Kenya",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Argentina",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Pakistan",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_txt": "Which is the second longest river in Africa",
+			"options": [
+                {
+                    "option_txt": "Nile River",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Niger River",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Orange River",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Congo River",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_txt": "What is the current official currency in Brazil",
+			"options": [
+                {
+                    "option_txt": "Brazilian Real",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Brazilian Novo",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Brazilian Dollar",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Brazilian Peso",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_txt": "Which of following countries does not have a king or queen right now",
+			"options": [
+                {
+                    "option_txt": "Tunisia",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Qatar",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Tonga",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Kuwait",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question_txt": "Which of the following countries uses US Dollar as offical currency",
+			"options": [
+                {
+                    "option_txt": "Republic of El Salvador",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Honduras",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Bahamas",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Guatemala",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question_txt": "Which volcanoes is in America",
+			"options": [
+                {
+                    "option_txt": "Nabro Volcano",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Muhavura Volcano",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Vilarrica Volcano",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "None of the three",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question_txt": "What is the highest mountain in Europe",
+			"options": [
+                {
+                    "option_txt": "Shkhara",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Mont Blanc",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Mount Elbrus",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Monte Rosa",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question_txt": "Which of the following countries do not have an official language",
+			"options": [
+                {
+                    "option_txt": "Iraq",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Costa Rica",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Gabon",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "None of the three",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question_txt": "Which of the following countries is not a Middle East Country",
+			"options": [
+                {
+                    "option_txt": "Turkey",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "None of the three",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Egypt",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Jordan",
+                    "isCorrect": "False"
+                }
+            ]
+        }
+    ]
+}

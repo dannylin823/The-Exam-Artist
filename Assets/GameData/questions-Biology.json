@@ -1,0 +1,334 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question_txt": "What are the basic units of life called?",
+            "options": [
+                {
+                    "option_txt": "Bacteria",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Genes",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Cells",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "DNA",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "question_txt": "During photosynthesis",
+            "options": [
+                {
+                    "option_txt": "light reactions produce sugar, while the Calvin cycle produces O2.",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "light reactions produce NADPH and ATP, while the Calvin cycle produces sugar.",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "light reactions photophosphorylate ADP, while the Calvin cycle produces ATP.",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "the Calvin cycle produces both sugar and O2.",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_txt": "Organisms that reproduce sexually exhibit zygotic, gametic, or sporic meiosis. One way to determine the type of life cycle an organism has is by",
+            "options": [
+                {
+                    "option_txt": "observing embryonic development.",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "comparing the diploid and haploid forms of the organism.",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "determining when in the life cycle fertilization occurs.",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "determining if gametes are multicellular or unicellular.",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_txt": "What is Elvis Presley blood type?",
+            "options": [
+                {
+                    "option_txt": "Type A",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Type B",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Type AB",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Type O",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_txt": "What is bloods message to the world?What is bloods message to the world?",
+            "options": [
+                {
+                    "option_txt": "B Positive!B Positive!",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "A Positive!B Positive!",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "F Positive!B Positive!",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "N Positive!B Positive!",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_txt": "What do chickens grow on?What do chickens grow on?",
+            "options": [
+                {
+                    "option_txt": "Egg",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Plants",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Eggplants",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "No where",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_txt": "A cell membrane is ______________?",
+            "options": [
+                {
+                    "option_txt": "permeable",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "semipermeable",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "nonpermeable",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "None of the above",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_txt": "A cell uses which of the following to accelerate chemical reactions enabling its metabolic machinery to operate?",
+            "options": [
+                {
+                    "option_txt": "Centrasome",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Lysosome",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Golgi apparatus",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Enzymes",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_txt": "Which of the following is not part of the metabolic sequence?",
+            "options": [
+                {
+                    "option_txt": "Photosynthesis",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Respiration",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Hydoplasm",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Digestion",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_txt": "The major parts of a cell are the ______________?",
+            "options": [
+                {
+                    "option_txt": "surrounding membrane",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "surrounding membrane and cytoplasm",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "surrounding membrane, cytoplasm and nucleus",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "surrounding membrane, cytoplasm, nucleus and mitochondria",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_txt": "The functional unit of heredity is the _____________.",
+            "options": [
+                {
+                    "option_txt": "gene",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "chromosome",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "protein",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "nucleus",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_txt": "Which of the following represents the largest group of biological classification?",
+            "options": [
+                {
+                    "option_txt": "Kingdom",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Species",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Class",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Genus",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_txt": "How many chromosomes does an individual human person have?",
+            "options": [
+                {
+                    "option_txt": "23",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "46",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "64",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "32",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_txt": "The bodies of all insects have _______ major divisions.",
+            "options": [
+                {
+                    "option_txt": "2",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "3",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "4",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "5",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_txt": "Locomotion in Metazoa is usually due to the contraction of what?",
+            "options": [
+                {
+                    "option_txt": "Nerves",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Skin",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Skeleton",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Muscle",
+                    "isCorrect": "True"
+                }
+            ]
+        }
+    ]
+}

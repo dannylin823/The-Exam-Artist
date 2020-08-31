@@ -1,0 +1,466 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question_txt": "Identify any scientist who made discoveries in chemistry.",
+      "options": [
+        {
+          "option_txt": "Marie Curie",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "John Delton",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Roselia Franklin",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Linus Rutherford",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question_txt": "Which one of the following is the true covalent oxide of iodine?",
+      "options": [
+        {
+          "option_txt": "I2O4",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "I2O5",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "I2O7",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "I2O9",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question_txt": "What is Phosphoric Acid?",
+      "options": [
+        {
+          "option_txt": "H3PO3",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "H3PO4",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "H3PO5",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "H3PO6",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question_txt": "Where was Stephanie Kwolek born?",
+      "options": [
+        {
+          "option_txt": "Washington",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Philadelphia",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "California",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "New York",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question_txt": "What is the product of water and pentyl ethanoate under acidic conditions?",
+      "options": [
+        {
+          "option_txt": "Ethanoic acid and pentanol",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Butanol and water",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Ethanoic acid, two equivalents",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Pentanol, two equivalents",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question_txt": "In order to extract isobutyric acid from a solution of diethyl ether, one should wash the solution with:",
+      "options": [
+        {
+          "option_txt": "One 30 mL wash of water",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Three 10 mL washes of water",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "One 30 mL wash of hexane",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Three 10 mL washes of hexane",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question_txt": "Which alcohol will most easily react with HCl to form an alkyl halide?",
+      "options": [
+        {
+          "option_txt": "Primary alcohol",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Secondary alcohol",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Tertiary alcohol",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "All alcohols react equally to form alkyl halides",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question_txt": "Consider (E)-2-butene and (Z)-2-butene. This is a pair of what type(s) of isomers?\nI. Cis–trans isomers\nII. Diastereomers\nIII. Enantiomers",
+      "options": [
+        {
+          "option_txt": "I only",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "II only",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "I and II only",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "I and III only",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question_txt": "An electron is known to be in the n = 4 shell and the l = 2 subshell. How many possible combinations of quantum numbers could this electron have?",
+      "options": [
+        {
+          "option_txt": "1",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "2",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "5",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "10",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question_txt": "All of the following are true with respect to carbonyls EXCEPT:",
+      "options": [
+        {
+          "option_txt": "the carbonyl carbon is electrophilic.",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "the carbonyl oxygen is electron-withdrawing.",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "a resonance structure of the functional group places a positive charge on the carbonyl carbon.",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "the π electrons are mobile and are pulled toward the carbonyl carbon.",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question_txt": "Butanoic anhydride can be produced by the reaction of butanoic acid with which of the following compounds?",
+      "options": [
+        {
+          "option_txt": " Butanoic acid",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Ethanoic acid",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Butanol",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Methanal",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question_txt": "What would be the charge of aspartic acid at pH 7?",
+      "options": [
+        {
+          "option_txt": "Neutral",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Negative",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Positive",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "There is not enough information to answer the question.",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question_txt": "What is the most specific characterization of the reaction shown?\nCa(OH)2 (aq) + H2SO4 (aq) → CaSO4 (aq) + H2O (l)",
+      "options": [
+        {
+          "option_txt": "Single-displacement",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Neutralization",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Double-displacement",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Oxidation–reduction",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question_txt": "SN1 reactions show first-order kinetics because:",
+      "options": [
+        {
+          "option_txt": "the rate-limiting step is the first step to occur in the reaction.",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": " the rate-limiting step involves only one molecule.",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "there is only one rate-limiting step.",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "the reaction involves only one molecule.",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question_txt": "What is the highest-energy orbital of elements with valence electrons in the n = 3 shell?",
+      "options": [
+        {
+          "option_txt": "s-orbital",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "p-orbital",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "d-orbital",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "f-orbital",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question_txt": "Which of the following actions does NOT affect the equilibrium position of a reaction?",
+      "options": [
+        {
+          "option_txt": "Adding or removing heat.",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Adding or removing a catalyst.",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Increasing or decreasing concentrations of reactants.",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Increasing or decreasing volumes of reactants.",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question_txt": "At standard temperature and pressure, a chemical process is at equilibrium. What is the free energy of reaction (ΔG) for this process?",
+      "options": [
+        {
+          "option_txt": "ΔG > 0",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "ΔG < 0",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "ΔG = 0",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "There is not enough information to determine the free energy of the reaction.",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question_txt": "Which of the following correctly lists the enthalpy changes for these three steps, respectively?\nThe process of formation of a salt solution can be better understood by breaking the process into three steps:\n1. Breaking the solute into its individual components\n2. Making room for the solute in the solvent by overcoming intermolecular forces in the solvent\n3. Allowing solute–solvent interactions to occur to form the solution",
+      "options": [
+        {
+          "option_txt": "Endothermic, exothermic, endothermic",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Exothermic, endothermic, endothermic",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Exothermic, exothermic, endothermic",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Endothermic, endothermic, exothermic",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question_txt": "Why did the attacking army use acid?",
+      "options": [
+        {
+          "option_txt": "To destroy the enemy's bed",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "To melt the enemy's weapon",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "To kill the enemy's boss",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "To neutralize the enemy's base",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question_txt": "Old chemists never die. Why?",
+      "options": [
+        {
+          "option_txt": "They stop reacting",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "They stay alive",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "They made the Philosopher's Stone",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "No, They die.",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question_txt": "I said to drink water, but my chemist friend died. Why?",
+      "options": [
+        {
+          "option_txt": "He drank something weird",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "You poisoned him",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "He had heart attack",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "You killed him",
+          "isCorrect": "False"
+        }
+      ]
+    }
+  ]
+}

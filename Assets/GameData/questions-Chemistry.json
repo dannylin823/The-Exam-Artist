@@ -1,0 +1,334 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question_txt": " One of the essential minerals in the human body is salt. How much salt (NaCl) is in the average adult human body?",
+            "options": [
+                {
+                    "option_txt": "1 kilogram",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "500 grams",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "250 grams",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "None",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "question_txt": "If you fill a glass to the brim with ice water and the ice melts, what will happen?",
+            "options": [
+                {
+                    "option_txt": "The glass will over flow as the ice turns to water.",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "The level of water in the glass will remain unchanged as the ice melts.",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "The water level will drop slightly as the ice melts.",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "I'll never find out because I'll drink the water or walk away before anything happens.",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_txt": "You can't live without iron. Where in the body is most of the iron located?",
+	    "options": [
+                {
+                    "option_txt": "your brain",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "your skin",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "your blood",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "your bones",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_txt": "What is the chemical formula of Caffeine?",
+	    "options": [
+                {
+                    "option_txt": "C8H10N4O2",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "C10H12N2O",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "C8H11NO2",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "C6H12O6",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_txt": "Which element has the highest boiling point at 5933.2 Kelvin??",
+	    "options": [
+                {
+                    "option_txt": "W",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Rh",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Ta",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Hf",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_txt": "Which suicidal 19th century chemist has the single line etched on his tombstone : S=k log W?",
+	    "options": [
+                {
+                    "option_txt": "Henry Cavendish",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Josiah Gibbs",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Ludwig Boltzmann",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "James Maxwell",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_txt": "Which electron that would emit the greatest amount of energy by dropping electron levels?",
+	    "options": [
+                {
+                    "option_txt": "N=6 To N=3",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "N=2 To N=1",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "N=7 To N=5",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "N=5 To N=4",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_txt": "Dr Pepper shares what main ingredient of most antifreezes?",
+	    "options": [
+                {
+                    "option_txt": "Ethylene Glycol",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Propanediol",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Propylene Glycol",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Ethanol",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_txt": "In a lead storage battery, what strong acid is consumed in a reaction which produces the voltage?",
+	    "options": [
+                {
+                    "option_txt": "Nitric Acid",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Sulphuric Acid",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Hydrochloric Acid",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Selenic Acid",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_txt": "What are the products of acid-base neutralization?",
+	    "options": [
+                {
+                    "option_txt": "Water, Salt, Hydrogen gas",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Water, Salt",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Water, Salt, Heat",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Water, Salt, Heat, Hydrogen gas",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_txt": "What is the oxidation number on the chromium in a dichromate ion :(Cr2O7)^2-?",
+	    "options": [
+                {
+                    "option_txt": "4",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "7",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "5",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "6",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_txt": "From all salt elements, which group is most soluble?",
+	    "options": [
+                {
+                    "option_txt": "Group 6A",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Group 7A",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Group 5A",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Group 1A",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_txt": "How many more times acidic is a solution of pOH 5 than a solution of pH 5?",
+	    "options": [
+                {
+                    "option_txt": "1x10^(-4)",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "1x10^(-3)",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "1x10^(-6)",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "1x10^(-5)",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_txt": "Out of the following list, which is NOT a strong acid?",
+	    "options": [
+                {
+                    "option_txt": "Oxalic",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Selenic",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Bromic",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Perbromic",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_txt": "Heavy water contains what isotopic form of hydrogen?",
+	    "options": [
+                {
+                    "option_txt": "Deuterium",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Tritium",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Anterium",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "None",
+                    "isCorrect": "False"
+                }
+            ]
+        }
+    ]
+}

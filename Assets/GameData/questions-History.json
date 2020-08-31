@@ -1,0 +1,445 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question_txt": "Who is the 13th President of United States",
+            "options": [
+                {
+                    "option_txt": "Millard Fillmore",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Billiard Gillmore",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Not Even American knows lol",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "There is no 13th President because America is Superstitious",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "question_txt": "Why did US invade Iraq in 2003",
+            "options": [
+                {
+                    "option_txt": "To Hunt Osama",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Because of OIL",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "To get rid of Saddam",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "FREEDOM IS THE ONLY WAY YEAH",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_txt": "Which West Germany City is adjacent to Berlin",
+            "options": [
+                {
+                    "option_txt": "Berlin is not adjacent to West Germany",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Bonn",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Dresden",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Frankfurt",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_txt": "We''ll all feel gay when",
+            "options": [
+                {
+                    "option_txt": "We go to pride parade",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "When There are traps",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "we join LGBTQ++",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Johnny Comes Marching home",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_txt": "What Tactics did Lincoln use during American Civil War",
+            "options": [
+                {
+                    "option_txt": "Anaconda",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Hawk",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Lincoln was a bad tactician so he didn't use any",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Whatever Ulysses S. Grant told him",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_txt": "How did Gaius Julius Caesar died?",
+            "options": [
+                {
+                    "option_txt": "He didn't die, he just became cheese due to holes he got",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Stabbed during senate meeting",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Assassin use hidden blade to assassinate him",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Epileptic shock",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_txt": "Who is Uncle Hoe?",
+            "options": [
+                {
+                    "option_txt": "Le Loi",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Ngo Dinh Diem",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Ho Chi Minh",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "He does not exist, he was created by Johnson to Create Enemy",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_txt": "What is Mao Zedong greatest Accomplishment",
+            "options": [
+                {
+                    "option_txt": "Letting Deng Xiaoping Live",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "The Great Leap Forward",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "The Cultural Revolution",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "He done absolutely nothing for China",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_txt": "Who dig the Panama Canal?",
+            "options": [
+                {
+                    "option_txt": "No one, it is already there",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Panamaians",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Scotts",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Americans",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_txt": "Which State does not exist in 1800s",
+            "options": [
+                {
+                    "option_txt": "Germany",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Confederation of the Rhine",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Holy Roman Empire",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Naples",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_txt": "What is the White Horse from Four Horsemen of Apocalypse refers to",
+            "options": [
+                {
+                    "option_txt": "Famine",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Conquest/Pestilence",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Death",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "War",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_txt": "What Japanese company created A6M 'Zero'",
+            "options": [
+                {
+                    "option_txt": "Mitsubishi",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Hitachi",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Sumitomo",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Zero is an American Plane lololol",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_txt": "Where did Auschwitz Death Camp located",
+            "options": [
+                {
+                    "option_txt": "Czechoslovakia",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Ukraine",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Holocaust did not happen",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Poland",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_txt": "What doctrine did George W. Bush declare",
+            "options": [
+                {
+                    "option_txt": "9/11 Was an Inside job",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "All the world's evil",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Axis of Evil",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "The World Terror",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_txt": "What is Purpose of Ho Chi Minh Trail",
+            "options": [
+                {
+                    "option_txt": "To invade Laos and Thailand",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "The network of logistics system to attack South Vietnam",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Does not do anything at all, Go ask Alice when ten feet tall",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "To escort Ho Chi Minh out of Cambodia",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question_txt": "Princess Anatasia.....",
+            "options": [
+                {
+                    "option_txt": "Was murdered along with her family",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Evade Evil Rasputin and Mary Grand Duke Dmitri",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Exile to Paris and wrote the book about Rasputin",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Take revenge against the White Army and killed Lenin",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question_txt": "Tiananmen Tank man......",
+            "options": [
+                {
+                    "option_txt": "Got run over live on TV",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Destroyed the whole tank column with his balls",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Hijack a Tank and drove away, still unnoticed",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Got pulled away by bystanders after blocking the tank column",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question_txt": "Falklands War is the war between Argentina and ",
+            "options": [
+                {
+                    "option_txt": "United Kingdom",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Falklands Natives",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Aliens",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Iron Lady",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question_txt": "What/Who is Agent Orange",
+            "options": [
+                {
+                    "option_txt": "Soviet Spy who lived in Orange County, Los Angeles",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Chemical compound used as herbicide so Vietcong won't hide in trees",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "American Spy who successfully infiltrated Chinese Government in 1972",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Codename for the Box of Mandarin Oranges sent to Khrushchev as gift",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question_txt": "Who successfully landed on the sun at night in 1987",
+            "options": [
+                {
+                    "option_txt": "No one has ever been to the Sun",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "NASA lies!! Earth is Flat!!",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "The Mercury 13",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Soyuz 3",
+                    "isCorrect": "False"
+                }
+            ]
+        }
+        
+    ]
+}

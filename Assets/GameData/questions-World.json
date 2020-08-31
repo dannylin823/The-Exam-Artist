@@ -1,0 +1,730 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question_txt": "Which musician is not king of something?",
+      "options": [
+        {
+          "option_txt": "David Bowie",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Elvis Presley",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Bob Marley",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Michael Jackson",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question_txt": "Which of the following movies is directed by Mel Gibson?",
+      "options": [
+        {
+          "option_txt": "The Shawshank Redemption",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Leon: The Professional",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Titanic",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Braveheart",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question_txt": "Which 'MJ' has the greatest achievement in music?",
+      "options": [
+        {
+          "option_txt": "Michael Jordan",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Magic Johnson",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Michael Jackson",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Mary Jane",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question_txt": "Which ship is not an Olympic-class ship?",
+      "options": [
+        {
+          "option_txt": "RMS Titanic",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "RMS Teutonic",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "HMHS Brittanic",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "RMS Olympic",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question_txt": "What City was not once a capital of Roman Empire",
+      "options": [
+        {
+          "option_txt": "Milan",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Turin",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Istanbul",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Ravenna",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question_txt": "The Answer to this question is A",
+      "options": [
+        {
+          "option_txt": "B",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "D",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "A",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "C",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question_txt": "Which modern country was not a part of French Indochina?",
+      "options": [
+        {
+          "option_txt": "Thailand",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Laos",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Cambodia",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Vietnam",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question_txt": "What is the Chemical Symbol of Tungsten?",
+      "options": [
+        {
+          "option_txt": "T",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Tu",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Ts",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "W",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question_txt": "Which breed of cats has the largest average size?",
+      "options": [
+        {
+          "option_txt": "Sphinx",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Maine Coon",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Siamese",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Russian Blue",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question_txt": "Which Fortnite Streamer died of Ligma?",
+      "options": [
+        {
+          "option_txt": "Mongraal",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Sen Bugha",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Dr DisRespect",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Ninja",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question_txt": "Which is not one of the Mongol states",
+      "options": [
+        {
+          "option_txt": "Yuan Empire",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Ilkhanate",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "The Golden Horde",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Khergit Khanate",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question_txt": "Who lets the dogs out?",
+      "options": [
+        {
+          "option_txt": "Baha Men",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Woof!x5 ",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "The cats",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Anslem Douglas",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question_txt": "In Initial D anime series: What is \"Eight-Six\"?",
+      "options": [
+        {
+          "option_txt": "A Code word for Police",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "A Secret Location",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "A Character",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "A Car",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question_txt": "Which character was Gender-swapped in Fate anime Series",
+      "options": [
+        {
+          "option_txt": "Arthur Pendragon",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Alexander the great",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Marie Antoinette",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Sasaki Kojirou",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question_txt": "Which of these is not part of the Trimurti",
+      "options": [
+        {
+          "option_txt": "Kali",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Vishnu",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Brahma",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Shiva",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question_txt": "What is the first greek alphabet",
+      "options": [
+        {
+          "option_txt": "Alpha",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Beta",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Theta",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Gamma",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question_txt": "Which of of these car manufacturer is Japanese",
+      "options": [
+        {
+          "option_txt": "Hyundai",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Daewoo",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Subaru",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "SsangYong",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question_txt": "Which of of these brands never had a gaming console",
+      "options": [
+        {
+          "option_txt": "Phillips",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "JVC",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Pioneer",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Fairchild",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question_txt": "Which of of these brands had a gaming console",
+      "options": [
+        {
+          "option_txt": "Sanyo",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Panasonic",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Sharp",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Samsung",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question_txt": "What is the airspeed velocity of an unladen swallow?",
+      "options": [
+        {
+          "option_txt": "10-19mph",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "African or European swallow?",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "They don't fly!",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "12 Parsec",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question_txt": "A man has fallen into the river in Lego city; build what?",
+      "options": [
+        {
+          "option_txt": "A Rescue Helicopter",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "A Lifeboat",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "A Ladder Firetruck",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "An Armored Transport",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "question_txt": "A man has fallen into the river in Lego city; build what?",
+      "options": [
+        {
+          "option_txt": "A Rescue Helicopter",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "A Lifeboat",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "A Ladder Firetruck",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "An Armored Transport",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "question_txt": "Who is not one of Three Musketeers?",
+      "options": [
+        {
+          "option_txt": "D'Artagnan",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Athos",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Porthos",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Aramis",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "question_txt": "Which battle took place in 1916?",
+      "options": [
+        {
+          "option_txt": "The siege of Sevastapol",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "The Sack of Rome",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "The Battle of Somme",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Battle on the nile",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "question_txt": "What did JFK says in 1963?",
+      "options": [
+        {
+          "option_txt": "\"Gott strafe Sowjetunion\"",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "\"Berlin wird nicht sieg\"",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "\"Ich bin Schwul\"",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "\"Ich bin ein Berliner\"",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "question_txt": "Which weapons is designed to attack Cavalry",
+      "options": [
+        {
+          "option_txt": "Halberd",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Evening Star",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Bastard Sword",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Flail",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "question_txt": "Which of these cities in US is the furthest West",
+      "options": [
+        {
+          "option_txt": "Atlanta",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Columbus",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Tallahassee",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Detroit",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "question_txt": "What is the atomic weight of Deuterium?",
+      "options": [
+        {
+          "option_txt": "1",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "2",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "4",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "8",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "question_txt": "Who discovered MSG and its properties?",
+      "options": [
+        {
+          "option_txt": "Kikunae Ikeda",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Sakichi Toyoda",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Monosorios Giorgaina",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Deng Xiaoping",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "question_txt": "What is the capital of Australia?",
+      "options": [
+        {
+          "option_txt": "Sydney",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Melbourne",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Brisbane",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Canberra",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "question_txt": "Which of these countries is part of Triple Entente?",
+      "options": [
+        {
+          "option_txt": "Russia",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Poland",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Latvia",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Beralus",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "question_txt": "In the video game: Team Fortress 2, Who likes Sandvich?",
+      "options": [
+        {
+          "option_txt": "Heavy Weapons Guy",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Scout",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Engineer",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Medic",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "question_txt": "Master Chief, is a character from what Video game series?",
+      "options": [
+        {
+          "option_txt": "Resistance",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Halo",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Gears of War",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Doom",
+          "isCorrect": "False"
+        }
+      ]
+    }
+  ]
+}

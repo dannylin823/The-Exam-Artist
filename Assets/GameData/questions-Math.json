@@ -1,0 +1,466 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question_txt": "If 3x−y=12, what is the value of (8^x)/(2^y)",
+      "options": [
+        {
+          "option_txt": "2^12",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "4^4",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "8^2",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "The value cannot be determined from the information given.",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question_txt": "In the xy-plane, the point (p,r) lies on the line with equation y=x+b, where b is a constant. The point with coordinates (2p,5r) lies on the line with equation y=2x+b. If p≠0, what is the value of r/p?",
+      "options": [
+        {
+          "option_txt": "2/5",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "3/4",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "4/3",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "5/2",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question_txt": "If x is the average of m and 9, y is the average of 2m and 15, and z is the average of 3m and 18, what is the average of x, y, and z in terms of m?",
+      "options": [
+        {
+          "option_txt": "m+6",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "m+7",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "2m+14",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "3m+21",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question_txt": "For a polynomial p(x), the value of p(3) is −2. Which of the following must be true about p(x)?",
+      "options": [
+        {
+          "option_txt": "x−5 is a factor of p(x).",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "x−2 is a factor of p(x).",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "x+2 is a factor of p(x).",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "The remainder when p(x) is divided by x−3 is −2.",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question_txt": "In how many different ways can 3 identical green shirts and 3 identical red shirts be distributed among 6 children such that each child receives a shirt?",
+      "options": [
+        {
+          "option_txt": "20",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "40",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "216",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "720",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question_txt": "6/2(1+2)=?",
+      "options": [
+        {
+          "option_txt": "1",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "8",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "9",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "0",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question_txt": "The product of 3 positive integers x, y, z is 192. z = 4 and p is equal to the average of x and y. What is the minimum possible value of p?",
+      "options": [
+        {
+          "option_txt": "6",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "7",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "8",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "9.5",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question_txt": "x+y+z=1. x^2+y^2+z^2=2. x^3+y^3+z^3=3. x^5+y^5+z^5=?",
+      "options": [
+        {
+          "option_txt": "5",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "6",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "7",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "25/6",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question_txt": "x+y+z=1. x^2+y^2+z^2=2. x^3+y^3+z^3=3. x^4+y^4+z^4=?",
+      "options": [
+        {
+          "option_txt": "5",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "6",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "7",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "25/6",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question_txt": "4^x+6^x=9^x. x=?",
+      "options": [
+        {
+          "option_txt": "1.190",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1.189",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1.188",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1.187",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question_txt": "How many holes does a straw have?",
+      "options": [
+        {
+          "option_txt": "0",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "2",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "3",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question_txt": "If a Chinese ship had 26 sheep and 10 goats onboard, at least how old is the ship's captain?",
+      "options": [
+        {
+          "option_txt": "32",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "30",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "28",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "There is not enough information.",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question_txt": "11x11=4. 22x22=16. 33x33=?",
+      "options": [
+        {
+          "option_txt": "256",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "64",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "36",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "18",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question_txt": "0=1, 6=1, 18=2, 64=1, 192=?",
+      "options": [
+        {
+          "option_txt": "0",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "2",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "3",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question_txt": "ABC = A! + B! + C!, None of the digits is equal to 0. Solve ABC.",
+      "options": [
+        {
+          "option_txt": "145",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "127",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "123",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "122",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question_txt": "I have a pen, I have an apple, and what do I have?",
+      "options": [
+        {
+          "option_txt": "pen",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "pineapplepen",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "pineapple",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "applepen",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question_txt": "1/2 + 1/4 + 1/8 + 1/16 + ...=?",
+      "options": [
+        {
+          "option_txt": "0",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "-1",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "1/2",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question_txt": "1 + 1/2 + 1/4 + 1/8 + ...=?",
+      "options": [
+        {
+          "option_txt": "1.5",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "2",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1.77",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "∞",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question_txt": "(1/2)! = ?",
+      "options": [
+        {
+          "option_txt": "0.25",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "0.43",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "0.67",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "0.89",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question_txt": "If a, b, c, d are positive integers with sum of 63, what is the maximum value of ab+bc+cd?",
+      "options": [
+        {
+          "option_txt": "1001",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "991",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "881",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "771",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question_txt": "1 + 2 + 3 + 4 + ...=?",
+      "options": [
+        {
+          "option_txt": "∞",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "1/12",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "-1/12",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "-∞",
+          "isCorrect": "False"
+        }
+      ]
+    }
+  ]
+}

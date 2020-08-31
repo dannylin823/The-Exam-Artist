@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: fdfc1af3106aba948a4e9e510197614e
+timeCreated: 1483860761
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: prop_sch_miniprops_Book1
+    100004: prop_sch_miniprops_Book2
+    100006: prop_sch_miniprops_Book3
+    100008: prop_sch_miniprops_Book4
+    100010: prop_sch_miniprops_Eraser
+    100012: prop_sch_miniprops_Folio1
+    100014: prop_sch_miniprops_Folio2
+    100016: prop_sch_miniprops_Paper1
+    100018: prop_sch_miniprops_Paper2
+    100020: prop_sch_miniprops_Pencil
+    100022: prop_sch_miniprops_PencilCase1
+    100024: prop_sch_miniprops_PencilCase2
+    100026: prop_sch_miniprops_PencilCase3
+    100028: prop_sch_miniprops_PencilCase4
+    100030: prop_sch_miniprops_Penciltic1
+    100032: prop_sch_miniprops_Penciltic2
+    100034: prop_sch_miniprops_ToteBag1
+    100036: prop_sch_miniprops_ToteBag2
+    100038: prop_sch_miniprops_ToteBag3
+    400000: //RootNode
+    400002: prop_sch_miniprops_Book1
+    400004: prop_sch_miniprops_Book2
+    400006: prop_sch_miniprops_Book3
+    400008: prop_sch_miniprops_Book4
+    400010: prop_sch_miniprops_Eraser
+    400012: prop_sch_miniprops_Folio1
+    400014: prop_sch_miniprops_Folio2
+    400016: prop_sch_miniprops_Paper1
+    400018: prop_sch_miniprops_Paper2
+    400020: prop_sch_miniprops_Pencil
+    400022: prop_sch_miniprops_PencilCase1
+    400024: prop_sch_miniprops_PencilCase2
+    400026: prop_sch_miniprops_PencilCase3
+    400028: prop_sch_miniprops_PencilCase4
+    400030: prop_sch_miniprops_Penciltic1
+    400032: prop_sch_miniprops_Penciltic2
+    400034: prop_sch_miniprops_ToteBag1
+    400036: prop_sch_miniprops_ToteBag2
+    400038: prop_sch_miniprops_ToteBag3
+    2300000: prop_sch_miniprops_Book1
+    2300002: prop_sch_miniprops_Book2
+    2300004: prop_sch_miniprops_Book3
+    2300006: prop_sch_miniprops_Book4
+    2300008: prop_sch_miniprops_Eraser
+    2300010: prop_sch_miniprops_Folio1
+    2300012: prop_sch_miniprops_Folio2
+    2300014: prop_sch_miniprops_Paper1
+    2300016: prop_sch_miniprops_Paper2
+    2300018: prop_sch_miniprops_Pencil
+    2300020: prop_sch_miniprops_PencilCase1
+    2300022: prop_sch_miniprops_PencilCase2
+    2300024: prop_sch_miniprops_PencilCase3
+    2300026: prop_sch_miniprops_PencilCase4
+    2300028: prop_sch_miniprops_Penciltic1
+    2300030: prop_sch_miniprops_Penciltic2
+    2300032: prop_sch_miniprops_ToteBag1
+    2300034: prop_sch_miniprops_ToteBag2
+    2300036: prop_sch_miniprops_ToteBag3
+    3300000: prop_sch_miniprops_Book1
+    3300002: prop_sch_miniprops_Book2
+    3300004: prop_sch_miniprops_Book3
+    3300006: prop_sch_miniprops_Book4
+    3300008: prop_sch_miniprops_Eraser
+    3300010: prop_sch_miniprops_Folio1
+    3300012: prop_sch_miniprops_Folio2
+    3300014: prop_sch_miniprops_Paper1
+    3300016: prop_sch_miniprops_Paper2
+    3300018: prop_sch_miniprops_Pencil
+    3300020: prop_sch_miniprops_PencilCase1
+    3300022: prop_sch_miniprops_PencilCase2
+    3300024: prop_sch_miniprops_PencilCase3
+    3300026: prop_sch_miniprops_PencilCase4
+    3300028: prop_sch_miniprops_Penciltic1
+    3300030: prop_sch_miniprops_Penciltic2
+    3300032: prop_sch_miniprops_ToteBag1
+    3300034: prop_sch_miniprops_ToteBag2
+    3300036: prop_sch_miniprops_ToteBag3
+    4300000: prop_sch_miniprops_Pencil
+    4300002: prop_sch_miniprops_Penciltic1
+    4300004: prop_sch_miniprops_Penciltic2
+    4300006: prop_sch_miniprops_Eraser
+    4300008: prop_sch_miniprops_PencilCase1
+    4300010: prop_sch_miniprops_PencilCase2
+    4300012: prop_sch_miniprops_PencilCase3
+    4300014: prop_sch_miniprops_PencilCase4
+    4300016: prop_sch_miniprops_Folio1
+    4300018: prop_sch_miniprops_Folio2
+    4300020: prop_sch_miniprops_Paper1
+    4300022: prop_sch_miniprops_Paper2
+    4300024: prop_sch_miniprops_Book1
+    4300026: prop_sch_miniprops_Book2
+    4300028: prop_sch_miniprops_Book3
+    4300030: prop_sch_miniprops_Book4
+    4300032: prop_sch_miniprops_ToteBag1
+    4300034: prop_sch_miniprops_ToteBag2
+    4300036: prop_sch_miniprops_ToteBag3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

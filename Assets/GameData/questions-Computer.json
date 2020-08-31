@@ -1,0 +1,334 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question_txt": "What was the first computer virus in the DOS system?",
+            "options": [
+                {
+                    "option_txt": "Storm Worm virus",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Brain virus",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Corona virus",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "I Love You virus",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "question_txt": "Where does the symbol @ come from?",
+            "options": [
+                {
+                    "option_txt": "Arabic",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Greek",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Latin",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Hebrew",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_txt": "Who perpetrated the biggest military computer hack of all time in 2002?",
+            "options": [
+                {
+                    "option_txt": "Gary McKinnon",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Steven Raymond",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Kevin Paulsen",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Chris Zboralski",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_txt": "Who is the forerunner of virtual reality?",
+            "options": [
+                {
+                    "option_txt": "Wang Ganchang",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Palmer Luckey",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Jules Verne",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Myron Krueger",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_txt": "When was the first e-mail message sent?",
+            "options": [
+                {
+                    "option_txt": "1971",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "1981",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "1991",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "1961",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_txt": "What was the original name of Pac-Man?",
+            "options": [
+                {
+                    "option_txt": "Peck-Man",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Puck-Man",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Man-Pack",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Eat Monster",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_txt": "Who invented WhatsApp?",
+            "options": [
+                {
+                    "option_txt": "Mark Zuckerberg",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Rob Levin",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Jan Koum",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Shawn Fanning",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_txt": "What is the favoured game of James Bond?",
+            "options": [
+                {
+                    "option_txt": "Baccarat",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Roulette",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Back Jack",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Poker",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_txt": "Where was the first WWW server located?",
+            "options": [
+                {
+                    "option_txt": "MIT",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Stanford",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "USC",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Geneva",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_txt": "ISO, UPC and GS1 are the abbreviations of what?",
+            "options": [
+                {
+                    "option_txt": "Barcodes",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Communication systems",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Navigation systems",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "IP Addresses",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_txt": "Who is credited as the first computer programmer?",
+            "options": [
+                {
+                    "option_txt": "Charles Babbage",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Ada Lovelace",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Herman Hollerith",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Konrad Zuse",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_txt": "Who among the following first coined the term wiki?",
+            "options": [
+                {
+                    "option_txt": "Ward Cunningham",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Julian Assange",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Rafael Correa",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Greg Chesson",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_txt": "Which among the following is a meta search engine that can search over a dozen of major search engines in parallel?",
+            "options": [
+                {
+                    "option_txt": "Lycos",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Khoj",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "MSN",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Cyber411",
+                    "isCorrect": "True"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_txt": "A folder in a windows computer can't be made with the name",
+            "options": [
+                {
+                    "option_txt": "mak",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "can",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "con",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "make",
+                    "isCorrect": "False"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_txt": "Who is known as the father of supercomputing",
+            "options": [
+                {
+                    "option_txt": "Gene Amdahl",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "Seymour Cray",
+                    "isCorrect": "True"
+                },
+                {
+                    "option_txt": "Adam Dunkels",
+                    "isCorrect": "False"
+                },
+                {
+                    "option_txt": "David J. Brown",
+                    "isCorrect": "False"
+                }
+            ]
+        }
+    ]
+}

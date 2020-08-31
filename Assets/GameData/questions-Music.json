@@ -1,0 +1,445 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question_txt": "Who was the lead singer of the 1980’s pop group Culture Club?",
+      "options": [
+        {
+          "option_txt": "Duran Duran",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Boy George",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "David Bowie",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Van Halen",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question_txt": "Which type of wood did the Beatles sing about?",
+      "options": [
+        {
+          "option_txt": "California Redwood",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Birch",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Norwegian Wood",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "European Yew",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question_txt": "Which pop singer’s real name is Robyn Fenty?",
+      "options": [
+        {
+          "option_txt": "Rihanna.",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Bebe Rexha",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Lana Del Rey",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Rita Ora",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question_txt": "Which American singer died as a result of anorexia in 1983, aged just 32?",
+      "options": [
+        {
+          "option_txt": "Heath Ledger",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Kurt Cobain",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Mac Miller",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Karen Carpenter.",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question_txt": "How is American singer Michael Lee Aday better known?",
+      "options": [
+        {
+          "option_txt": "Meatloaf",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Meatball",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Gum",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Soda",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question_txt": "Which Rolling Stones guitarist was found dead in a swimming pool in 1969?",
+      "options": [
+        {
+          "option_txt": "Mick Jagger",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Brian Jones",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Ronnie Wood",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Keith Richards",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question_txt": "Janis Joplin, Jimi Hendrix, Jim Morrison and Kurt Cobain were all what age when they died?",
+      "options": [
+        {
+          "option_txt": "25",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "26",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "27",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "28",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question_txt": "Which famous guitar brand has a model named the Stratocaster?",
+      "options": [
+        {
+          "option_txt": "Fender",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "PRS",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Rickenbacker",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Jackson",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question_txt": "What's the name of a large wind instrument is used for cultural music by the indigenous people of Australia?",
+      "options": [
+        {
+          "option_txt": "Alto Saxophone",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Bassoon",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Piccolo",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Didgeridoo",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question_txt": "Names after the Greek god of wind, this musical instrument is played by passing a current of air over its strings. What is it?",
+      "options": [
+        {
+          "option_txt": "Aeolian Harp",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Boreas",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Anemoi",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Astraeu",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question_txt": "Which musical instrument was evolved from the sackbut – an early brass instrument.",
+      "options": [
+        {
+          "option_txt": "Cornet",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Trombone",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Clarinet",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Saxophone",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question_txt": "Chopin was well known for his Ballades. How many did he compose",
+      "options": [
+        {
+          "option_txt": "4",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "5",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "6",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "7",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question_txt": "What year did the Sydney Opera House open to the public?",
+      "options": [
+        {
+          "option_txt": "1970",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1971",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1972",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1973",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question_txt": "The Amati family is well-known throughout the world of classical music. What are they known for?",
+      "options": [
+        {
+          "option_txt": "Guitar",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Accordion",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Violin",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Flute",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question_txt": "The Hungarian Dances were composed by Johannes Brahms. How many Hungarian Dances are there?",
+      "options": [
+        {
+          "option_txt": "20",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "21",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "22",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "23",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question_txt": "Most composers user logical sequences to number their compositions, except for this one. His sixth and ninth cause frequent confusion, so the ninth is nicknamed the Great C Major to distinguish it from the sixth in the same key. The eight is unfinished, and the seventh does not exist. Who is this composer?",
+      "options": [
+        {
+          "option_txt": "Franz Schubert",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Pyotr Ilyich Tchaikovsky",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "George Frideric Handel",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Johannes Brahms",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question_txt": "International music sensation ABBA originate from which European country?",
+      "options": [
+        {
+          "option_txt": "Russia",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "German",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Poland",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Sweden",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question_txt": "In the original Jackson family line up, how many brothers were there?",
+      "options": [
+        {
+          "option_txt": "5",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "6",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "7",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "8",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question_txt": "The first commercial music compact disc to be sold in the United States was an album by which artist?",
+      "options": [
+        {
+          "option_txt": "James Russell",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Bruce Springsteen",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Igor Stravinsky",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Sergei Rachmaninov",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question_txt": "The Beatles released their first UK single 'Love Me Do' in what year?",
+      "options": [
+        {
+          "option_txt": "1962",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "1963",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1964",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1965",
+          "isCorrect": "False"
+        }
+      ]
+    }
+
+  ]
+}

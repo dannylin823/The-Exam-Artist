@@ -1,0 +1,643 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "question_txt": "What is the thing to make you XXX?",
+      "options": [
+        {
+          "option_txt": "floccinaucinihilipilification",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "pneumonoultramicroscopicsilicovolcanoconiosis",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "antidisestablishmentarianism",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "otorhinolaryngological",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question_txt": "我是",
+      "options": [
+        {
+          "option_txt": "豬",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "狗",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "舔狗",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "鹹魚",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question_txt": "埋在地下一千年的酒，出来以后叫什么?",
+      "options": [
+        {
+          "option_txt": "女儿红",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "千年酒",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "酒精",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "好酒",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question_txt": "私は何でしょう",
+      "options": [
+        {
+          "option_txt": "弁当",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "女子",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "豚丼",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "風邪薬",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question_txt": "If animals could talk, which species would be the rudest of them all?",
+      "options": [
+        {
+          "option_txt": "Wunderpus",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Strange-tailed tyrant",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Lumpsucker",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Goblin and Tasseled Wobbegon",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question_txt": "上帝關了一扇門，然後?",
+      "options": [
+        {
+          "option_txt": "開了扇窗",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "又開了門",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "沒了",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "死了",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question_txt": "我爱?",
+      "options": [
+        {
+          "option_txt": "它",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "她",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "他",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "我",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question_txt": "一番面白いのは何ですか",
+      "options": [
+        {
+          "option_txt": "蛇足",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "犬猿の仲",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "喉から手が出る",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "俎板の上の鯉",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question_txt": "How many chickens would it take to be able to kill a lion?",
+      "options": [
+        {
+          "option_txt": "100",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "1",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "1000",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "10000",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question_txt": "萬獸之王是?",
+      "options": [
+        {
+          "option_txt": "獅子",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "老虎",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "我媽",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "動物園園長",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question_txt": "哪种水果视力最差?",
+      "options": [
+        {
+          "option_txt": "柠檬",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "西瓜",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "香蕉",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "芒果",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question_txt": "ねこのてXX",
+      "options": [
+        {
+          "option_txt": "猫の手も借入金",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "猫の手足",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "猫の手",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "猫の手鏡",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question_txt": "Omnomnomnomnomnom",
+      "options": [
+        {
+          "option_txt": "Wakakakadakaka",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Takadakadakada",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Monomonomonomo",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Lalalolalolala",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question_txt": "要考试了,不能看什么书?",
+      "options": [
+        {
+          "option_txt": "百科全书",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "漫画书",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "小说",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "小黄书",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question_txt": "從1到5哪個數字最勤勞",
+      "options": [
+        {
+          "option_txt": "2",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "3",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "4",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "5",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question_txt": "あいうえお",
+      "options": [
+        {
+          "option_txt": "か",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "き",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "く",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "け",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question_txt": "abvIamapigcde",
+      "options": [
+        {
+          "option_txt": "No",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Maybe",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Yes",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "Dunno",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question_txt": "狼来了",
+      "options": [
+        {
+          "option_txt": "羊没了",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "狼走了",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "羊逃了",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "我死了",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question_txt": "豆腐為什麼能打傷人?",
+      "options": [
+        {
+          "option_txt": "因為愛",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "所以在",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "可以吃",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "好好吃",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "question_txt": "彼女が欲しい",
+      "options": [
+        {
+          "option_txt": "無理です",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "無いです",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "彼氏ある",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "死んでください",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "question_txt": "What is my name?",
+      "options": [
+        {
+          "option_txt": "ovuvuevuevue",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "osas",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "ugbemugbem",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "enyetuenwuevue",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "question_txt": "上课铃声东响了，却没有一个同学在教室里，怎么回事？",
+      "options": [
+        {
+          "option_txt": "体育课",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "放假",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "都请假",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "都厕所",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "question_txt": "你跟豬站在一起?",
+      "options": [
+        {
+          "option_txt": "象",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "狗",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "鼠",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "豬",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "question_txt": "ヒロアカHero tooの作詞?",
+      "options": [
+        {
+          "option_txt": "堀越耕平",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "林ゆうき",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "あやぺた",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "長崎健司",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "question_txt": "Naruto XXX",
+      "options": [
+        {
+          "option_txt": "Uchiha",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Haruno",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Hatake",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "Uzumaki",
+          "isCorrect": "True"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "question_txt": "天天說?",
+      "options": [
+        {
+          "option_txt": "你好",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "掰掰",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "洗澡",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "睡了",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "question_txt": "小明为什么天天去男科医院?",
+      "options": [
+        {
+          "option_txt": "爱上医生",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "复整",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "病了",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "无聊",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "question_txt": "貴方の猫の名前はなに?",
+      "options": [
+        {
+          "option_txt": "ごぶりん",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "ねこ",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "犬夜叉",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "一瀬",
+          "isCorrect": "False"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "question_txt": "What is the professor's name?",
+      "options": [
+        {
+          "option_txt": "OOOOO XXXXX",
+          "isCorrect": "True"
+        },
+        {
+          "option_txt": "XOXOX OXOXO",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "OXXXO XOOOX",
+          "isCorrect": "False"
+        },
+        {
+          "option_txt": "XXOOX OXOXX",
+          "isCorrect": "False"
+        }
+      ]
+    }
+
+  ]
+}
